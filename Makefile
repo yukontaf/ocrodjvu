@@ -13,7 +13,7 @@
 
 PYTHON = python3
 
-PREFIX = /usr/local
+PREFIX = /Users/glebsokolov/opt/anaconda3
 DESTDIR =
 
 bindir = $(PREFIX)/bin
